@@ -85,7 +85,7 @@
         I also enjoy the game of chess.
         Before I started playing chess, I just found it to be nerdy and geeky.
         I don't remember why I actually even started learning it, but surely I don't regret my decision.
-        The thing I like about chess is that when losing, you and only you made a mistake, there no such thing as luck.
+        The thing I like about chess is that when losing, you and only you made a mistake, there is no such thing as luck.
         Every move has to be cleanly evaluated before it's being made.
         Albeit, outplaying an opponent is one of the most satisfying feelings there is.
       </p>
