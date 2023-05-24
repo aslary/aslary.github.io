@@ -86,11 +86,16 @@ canvas {
 }
 
 .actions {
+    height: 80vh;
     position: absolute;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
     z-index: 100;
     animation: fadeIn 4s normal;
+}
+
+img {
+    height: 90%;
 }
 </style>
