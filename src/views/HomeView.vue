@@ -6,7 +6,7 @@
       <h1><u>Introduction</u></h1>
       <p>
         I am a computer scientist and content creator from Austria, welcome to my personal website, stranger!<br><br>
-        This site was made with <span>&#10084;&#65039;</span> using TuiCss and Vue.js, the source code can be found on my
+        This site was made with <span>&lt;3</span> using TuiCss and Vue.js, the source code can be found on my
         GitHub (see below).
         Feel free to use the code for your own purposes.
         I enjoy the oldschool look of MS-DOS-like interfaces, so TuiCss came in handy.
