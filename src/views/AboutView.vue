@@ -67,6 +67,8 @@
 
       <h1><u>What I do in my free time</u></h1>
       <p>
+        I am someone who likes to spend time with his family and loved ones. I also have a partner, she is sweetest person I know, and I love her.<br><br>
+      
         I am a strong believer that people should keep themselves physically fit and capable.
         This includes working out several times a week and eating clean most of the time.
         That is the reason why I religiously workout almost every day, primarily lifting weights, but I also enjoy boxing,
@@ -85,7 +87,7 @@
         I don't remember why I actually even started learning it, but surely I don't regret my decision.
         The thing I like about chess is that when losing, you and only you made a mistake, there no such thing as luck.
         Every move has to be cleanly evaluated before it's being made.
-        Albeit, outplaying an opponent is one of the most satisfying feelings there is <span>&#128511;</span>
+        Albeit, outplaying an opponent is one of the most satisfying feelings there is.
       </p>
     </fieldset>
   </div>
