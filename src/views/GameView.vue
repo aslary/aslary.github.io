@@ -134,7 +134,7 @@ onMounted(() => {
         <div class="tui-window full-width first" v-else>
             <fieldset class="tui-fieldset tui-border-double">
                 <legend>Questions</legend>
-                <p>Answer the following questions.</p>
+                <p>Answer the following questions. Only input a number without currencies or other decorations. You can use <strong>,</strong> or <strong>.</strong> for the decimal point.</p>
 
                 <div class="tui-window full-width tui-no-shadow" v-for="(question, i) in questions">
                     <fieldset class="tui-fieldset tui-border-solid">
