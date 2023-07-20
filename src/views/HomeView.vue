@@ -26,7 +26,7 @@
         > GitHub
       </a>
       <br>
-      <a href="https://www.youtube.com/@aslary7130" class="info-hover" target=”_blank”>
+      <a href="https://www.youtube.com/@aslary" class="info-hover" target=”_blank”>
         > YouTube
       </a>
       <br>
